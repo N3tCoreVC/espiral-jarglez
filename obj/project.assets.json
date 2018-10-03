@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\carlos\\DriveGoogleRedlab\\proyectoCsharp\\JareroTareaArbolito\\arbolito.csproj",
-      "projectName": "arbolito",
-      "projectPath": "c:\\Users\\carlos\\DriveGoogleRedlab\\proyectoCsharp\\JareroTareaArbolito\\arbolito.csproj",
+      "projectUniqueName": "C:\\Users\\carlos\\DriveGoogleRedlab\\proyectoCsharp\\espiral-jarglez\\espiral-jarglez.csproj",
+      "projectName": "espiral-jarglez",
+      "projectPath": "C:\\Users\\carlos\\DriveGoogleRedlab\\proyectoCsharp\\espiral-jarglez\\espiral-jarglez.csproj",
       "packagesPath": "C:\\Users\\carlos\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\carlos\\DriveGoogleRedlab\\proyectoCsharp\\JareroTareaArbolito\\obj\\",
+      "outputPath": "C:\\Users\\carlos\\DriveGoogleRedlab\\proyectoCsharp\\espiral-jarglez\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
