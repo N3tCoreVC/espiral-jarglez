@@ -1,0 +1,11 @@
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\espiral-jarglez\bin\Debug\netcoreapp2.1\espiral-jarglez.deps.json
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\espiral-jarglez\bin\Debug\netcoreapp2.1\espiral-jarglez.runtimeconfig.json
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\espiral-jarglez\bin\Debug\netcoreapp2.1\espiral-jarglez.runtimeconfig.dev.json
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\espiral-jarglez\bin\Debug\netcoreapp2.1\espiral-jarglez.dll
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\espiral-jarglez\bin\Debug\netcoreapp2.1\espiral-jarglez.pdb
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\espiral-jarglez\obj\Debug\netcoreapp2.1\espiral-jarglez.csprojAssemblyReference.cache
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\espiral-jarglez\obj\Debug\netcoreapp2.1\espiral-jarglez.csproj.CoreCompileInputs.cache
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\espiral-jarglez\obj\Debug\netcoreapp2.1\espiral-jarglez.AssemblyInfoInputs.cache
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\espiral-jarglez\obj\Debug\netcoreapp2.1\espiral-jarglez.AssemblyInfo.cs
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\espiral-jarglez\obj\Debug\netcoreapp2.1\espiral-jarglez.dll
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\espiral-jarglez\obj\Debug\netcoreapp2.1\espiral-jarglez.pdb
